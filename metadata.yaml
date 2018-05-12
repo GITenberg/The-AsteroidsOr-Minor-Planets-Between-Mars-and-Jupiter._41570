@@ -1,0 +1,27 @@
+_repo: The-AsteroidsOr-Minor-Planets-Between-Mars-and-Jupiter._41570
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kirkwood, Daniel
+    birthdate: 1814
+    deathdate: 1895
+    gutenberg_agent_id: '41243'
+    url: http://www.gutenberg.org/2009/agents/41243
+description: ''
+gutenberg_issued: '2012-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41570'
+  lccn: '05012423'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Asteroids'
+- !lcc 'QB'
+title: The Asteroids; Or Minor Planets Between Mars and Jupiter.
+url: http://www.gutenberg.org/ebooks/41570
